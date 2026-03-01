@@ -1,0 +1,29 @@
+# credentials
+.env
+.spotify_cache
+
+# virtual environment
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# data files
+data/
+
+# streamlit
+.streamlit/
+
+# editor
+.vscode/
+.idea/
+
+# os
+.DS_Store
+Thumbs.db
+
+# compiled requirements (keep requirements.in, ignore requirements.txt)
+requirements.txt
