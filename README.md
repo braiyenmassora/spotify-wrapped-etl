@@ -73,8 +73,3 @@ Once the pipeline has run, start the dashboard with `make dashboard`. It display
 ## License
 
 MIT License — free to use, modify, and distribute.
-nked by popularity score (0-100) |
-
-## License
-
-MIT License — free to use, modify, and distribute.
